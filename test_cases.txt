@@ -1,0 +1,17 @@
+TC_01 - Valid PIN
+Expected: Access granted
+
+TC_02 - Invalid PIN
+Expected: Error message displayed
+
+TC_03 - Cash Withdrawal with Sufficient Balance
+Expected: Amount withdrawn successfully
+
+TC_04 - Cash Withdrawal with Insufficient Balance
+Expected: Insufficient balance message
+
+TC_05 - Balance Enquiry
+Expected: Current balance displayed
+
+TC_06 - Mini Statement
+Expected: Recent transactions displayed
