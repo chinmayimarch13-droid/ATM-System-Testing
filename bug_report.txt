@@ -1,0 +1,20 @@
+Bug ID: 001
+
+Title:
+ATM allows withdrawal greater than account balance
+
+Steps:
+
+1. Insert card
+2. Enter valid PIN
+3. Select Withdraw Cash
+4. Enter amount greater than balance
+
+Expected:
+Transaction should be declined
+
+Actual:
+Transaction processed
+
+Status:
+Open
