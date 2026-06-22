@@ -1,0 +1,9 @@
+learning topics:
+- How ATM systems work
+- How to write test cases for ATM transactions
+- Difference between valid and invalid PIN scenarios
+- How to test cash withdrawal functionality
+- Importance of checking sufficient and insufficient balance conditions
+- How to write bug reports
+- Boundary Value Analysis for PIN validation
+- Positive and Negative Testing techniques
